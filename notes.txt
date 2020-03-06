@@ -1,0 +1,6 @@
+-->Node Js :- It is a very powerfull Javascript base platform build on Google Chrome's Javascript V8 Engine . Used to develop web applications like SPA , Video Streaming Websites and more.
+-> its is a run time environment to run Javascript code in server.
+-> Server Side Platform 
+
+-> Asynchronous and Event Driven Programming
+Lazy Loading ;- 
